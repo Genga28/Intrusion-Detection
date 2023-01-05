@@ -10,7 +10,7 @@ model=pickle.load(pickle_in)
 
 def predict_intrusion(src_bytes,dst_host_srv_count,service,dst_bytes):
     
-    prediction=model.predict([[src_bytes,dst_host_srv_count,service,dst_bytes]])
+    prediction=model.predict(src_bytes,dst_host_srv_count,service,dst_bytes)
     print(prediction)
     return prediction
 
@@ -34,9 +34,6 @@ def main():
     if st.button("About"):
         st.text("Lets LEarn")
         st.text("Built with Streamlit")
-
-
-
 
 
 if __name__ == "__main__":
