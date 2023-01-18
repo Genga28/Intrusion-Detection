@@ -15,7 +15,10 @@ streamlit run app.py
 ```
 ## Screenshot
 
-![image](https://user-images.githubusercontent.com/82211151/213081231-7070bdb4-aa8d-482a-82b3-25b4b9770867.png)
+![image](https://user-images.githubusercontent.com/82211151/213107450-a4aaa8ec-59a3-4a0c-b3d9-8ef115f42398.png)
+
+![image](https://user-images.githubusercontent.com/82211151/213107515-05567f66-22c5-4cf7-beff-03f3adec0388.png)
+
 
 
 
