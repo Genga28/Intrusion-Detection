@@ -15,10 +15,10 @@ streamlit run app.py
 ```
 
 
-##Dataset Description
+## Dataset Description
 
 
-##Models Used:
+## Models Used:
 
 **Navie Bayes
     
