@@ -24,7 +24,8 @@ Test data -- 22,545 rows
 Train data -- 1,25,974 rows
 
 Here in this project the dataset is loaded in three different ways:
-    *Using Database -- MpngoDB
+
+    *Using Database -- MongoDB
     *As a txt file
     *As a csv file
 
