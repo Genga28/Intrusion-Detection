@@ -17,6 +17,16 @@ streamlit run app.py
 
 ## Dataset Description
 
+Features -- 41
+Rows -- 1,48,519
+
+Test data -- 22,545 rows
+Train data -- 1,25,974 rows
+
+Here in this project the dataset is loaded in three different ways:
+    *Using Database -- MpngoDB
+    *As a txt file
+    *As a csv file
 
 ## Models Used:
 
@@ -65,7 +75,7 @@ streamlit run app.py
     Recall -- 99%
     f1 score -- 98%
 
-
+Hence ID3 is chosen for prediction
 
 ## Screenshot
 
