@@ -8,7 +8,7 @@ An Intrusion Detection Application that detects which type of attacks that happe
 # conda terminal
 streamlit run app.py
 
-##Dashboard
+#Application
 
  https://genga-intrusion-detection.streamlit.app/
 
