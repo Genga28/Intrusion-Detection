@@ -45,9 +45,9 @@ Here in this project the dataset is loaded in three different ways:
     Recall -- 98%
     f1 score -- 97%
 
-**Decision Tree(ID3)
+**Random Forest
     
-    Model Accuracy -- 99.9%
+    Model Accuracy -- 98.5%
     
     For 0 and 1:
     Precision -- 100%
@@ -56,7 +56,7 @@ Here in this project the dataset is loaded in three different ways:
 
 **KNN
     
-    Model Accuracy -- 99.7%
+    Model Accuracy -- 97.7%
     
     For 0 and 1:
     Precision -- 100%
@@ -76,7 +76,7 @@ Here in this project the dataset is loaded in three different ways:
     Recall -- 99%
     f1 score -- 98%
 
-Hence ID3 is chosen for prediction
+Hence Random Forest is chosen for prediction
 
 ## Screenshot
 
