@@ -6,7 +6,7 @@ import pandas as pd
 
 from PIL import Image
 
-pickle_in = open("int_det_model.pkl","rb")
+pickle_in = open("intdet_model.pkl","rb")
 model=pickle.load(pickle_in)
 
 
