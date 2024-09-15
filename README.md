@@ -54,6 +54,15 @@ Here in this project the dataset is loaded in three different ways:
     Recall -- 100%
     f1 score -- 100%
 
+**ID3
+    
+    Model Accuracy -- 99.5%
+    
+    For 0 and 1:
+    Precision -- 100%
+    Recall -- 100%
+    f1 score -- 100%
+
 **KNN
     
     Model Accuracy -- 97.7%
@@ -76,7 +85,7 @@ Here in this project the dataset is loaded in three different ways:
     Recall -- 99%
     f1 score -- 98%
 
-Hence Random Forest is chosen for prediction
+Hence ID3 is chosen for prediction
 
 ## Screenshot
 
